@@ -39,4 +39,20 @@
   <b>🌿 Learn continuously · Build thoughtfully · Grow fearlessly 🌿</b>
 </p>
 
+---
+
+<h2 align="center">🌱 Inside My Coding Studio</h2>
+
+<p align="center">
+  <i>A little creativity, a lot of curiosity, and code that solves real problems.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1400&color=739B78&center=true&vCenter=true&width=520&lines=Designing+reliable+backend+systems;Connecting+services+with+clean+APIs;Turning+ideas+into+Flutter+apps;Growing+one+project+at+a+time" alt="Animated coding studio messages" />
+</p>
+
+<p align="center">
+  🌿 &nbsp; BUILD &nbsp; · &nbsp; CREATE &nbsp; · &nbsp; IMPROVE &nbsp; 🌿
+</p>
+
 
