@@ -38,3 +38,11 @@
 <p align="center">
   <b>🌿 Learn continuously · Build thoughtfully · Grow fearlessly 🌿</b>
 </p>
+
+---
+
+<h2 align="center">🐍 My Contribution Garden</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thahseen1502/Thahseen1502/output/github-snake.svg" alt="Sage-green GitHub contribution snake" />
+</p>
