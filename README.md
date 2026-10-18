@@ -54,5 +54,20 @@
 <p align="center">
   🌿 &nbsp; BUILD &nbsp; · &nbsp; CREATE &nbsp; · &nbsp; IMPROVE &nbsp; 🌿
 </p>
+---
+
+<h2 align="center">🌿 My Contribution Garden</h2>
+
+<p align="center">
+  <i>Every contribution is a little seed. Every project helps me grow.</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Thahseen1502/Thahseen1502/output/github-snake.svg"
+    alt="GitHub contribution animation in sage green"
+    width="800"
+  />
+</p>
 
 
